@@ -1,0 +1,7 @@
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\bin\WebServiceEX2.dll.config
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\bin\WebServiceEX2.dll
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\bin\WebServiceEX2.pdb
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\obj\Debug\WebServiceEX2.csprojAssemblyReference.cache
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\obj\Debug\WebServiceEX2.csproj.CoreCompileInputs.cache
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\obj\Debug\WebServiceEX2.dll
+D:\601\Programacion\Visual Studio\WebServiceEX2\WebServiceEX2\obj\Debug\WebServiceEX2.pdb
